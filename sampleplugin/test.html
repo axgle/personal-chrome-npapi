@@ -1,0 +1,17 @@
+<doctype html>
+
+<html>
+<head>
+<meta charset=utf-8 />
+<script>
+window.onload = function(){
+    test = document.getElementById("pluginObj");
+    document.getElementById('log').innerHTML=(test.sayHello());
+}
+</script>
+</head>
+<embed id="pluginObj" type="application/x-helloworld"> 
+<body>
+<div id="log" />
+</body>
+</html>
