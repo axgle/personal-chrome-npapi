@@ -1,4 +1,4 @@
-chrome-npapi-helloworld
+personal-chrome-npapi
 =======================
 Notice; this is my personal..if you want to a hello world basic version visit 
 [axgle/npapi-chrome-plugin-helloworld](https://github.com/axgle/npapi-chrome-plugin-helloworld)
