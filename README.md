@@ -1,5 +1,8 @@
 chrome-npapi-helloworld
 =======================
+Notice; this is my personal..if you want to a hello world basic version visit 
+[axgle/npapi-chrome-plugin-helloworld](https://github.com/axgle/npapi-chrome-plugin-helloworld)
+
 npapi plugin helloworld for chrome extension on windows
 
 I use vs 2010 on windows:
